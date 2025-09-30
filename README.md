@@ -1,4 +1,4 @@
-# Abot Me
+# About Me
 
 ## Details:
 - Name: Jack Yap
